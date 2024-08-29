@@ -1,0 +1,53 @@
+# Genel
+*.iml
+*.hprof
+*.log
+*.xml
+*.swp
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+build/
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+gradle-wrapper.jar
+gradle-wrapper.properties
+gradle.properties
+gradlew
+gradlew.bat
+gradle/
+!gradle-wrapper.jar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Proje bağımlılıkları
+lib/
+
+# Derleme dosyaları
+*.class
+*.jar
+*.war
+*.ear
+
+# Dökümanlar
+*.pdf
+*.doc
+*.docx
+*.odt
+
+# OS Belirtileri
+.DS_Store
+Thumbs.db
